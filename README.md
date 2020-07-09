@@ -1,9 +1,13 @@
 ### Hi there 👋
 Hello
 🖥️ Currently working with Node.js, Python, and Javascript
+
 👨‍💻 I currently work at [symbium](https://symbium.com/)
+
 👯 Looking for cool open source software to collaborate on (message me)
+
 ℹ️ [My Website](https://djanes.xyz/)
+
 📫 [My email](mailto:dan@djanes.xyz)
 
 <!--
