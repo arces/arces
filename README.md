@@ -2,7 +2,7 @@
 
 #### 🖥️ Currently working with Node.js, Python, and Javascript
 
-#### 👨‍💻 I currently work at [TryShowtime](https://tryshowtime.com/)
+#### 👨‍💻 I currently open for work!
 
 #### 👯 Looking for cool open source software to collaborate on (message me)
 
