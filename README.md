@@ -2,7 +2,7 @@
 
 #### 🖥️ Currently working with Node.js, Python, and Javascript
 
-#### 👨‍💻 I currently open for work!
+#### 👨‍💻 Working for [Simba Chain](https://simbachain.com/)!
 
 #### 👯 Looking for cool open source software to collaborate on (message me)
 
