@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🖥️ Currently working with Node.js, Python, and Javascript
+#### 🖥️ Currently working with Node.js, Solidity, and Javascript
 
 #### 👨‍💻 Working for [Simba Chain](https://simbachain.com/)!
 
