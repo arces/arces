@@ -2,25 +2,10 @@
 
 #### 🖥️ Currently working with Node.js, Solidity, and Javascript/Typescript
 
-#### 👨‍💻 Working for [Simba Chain](https://simbachain.com/)!
+#### 👨‍💻 Looking for Work!
 
 #### 👯 Looking for cool open source software to collaborate on (message me)
 
 #### ℹ️ [My Website](https://djanes.xyz/)
 
-#### 📫 [My email](mailto:dan@djanes.xyz)
 
-<!--
-**arces/arces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
